@@ -1,5 +1,5 @@
 <p align="center">
-</p>
+  </p>
 
 <div align="center">
   <h1>
@@ -10,8 +10,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO-AQUI">
-    <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
+  <a href="https://github.com/vini1912">
+    <img src="https://komarev.com/ghpvc/?username=vini1912&label=Profile%20views&color=0e75b6&style=flat" alt="Contador de Visitas" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="justify">
-Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e interativas. Minha jornada na programação é movida pela curiosidade e pelo desejo de transformar ideias em realidade digital.
+Sou um desenvolvedor de 17 anos, apaixonado por aprender novas tecnologias. Atualmente, estou no último semestre do curso técnico em Desenvolvimento de Sistemas no SENAI, onde tenho aprimorado minha capacidade de criar interfaces modernas e interativas. Ansioso para concluir esta etapa, busco ativamente oportunidades para continuar aprendendo, colaborar em projetos e explorar o vasto universo do desenvolvimento.
 </p>
 
 - 🔭 Atualmente imerso em projetos pessoais que desafiam minha criatividade e lógica.
@@ -57,7 +57,7 @@ Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e
 ### ✨ Projetos que me Orgulho
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/projeto-fnaf.gif" width="600px" alt="GIF do Projeto FNAF"/>
+  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-fnaf.gif" width="600px" alt="GIF do Projeto FNAF"/>
   <h3 align="center">Projeto FNAF</h3>
   <p align="center">
     Jogo de suspense e interatividade inspirado no universo de Five Nights at Freddy's.
@@ -82,7 +82,7 @@ Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/projeto-simulador.gif" width="600px" alt="GIF do Simulador de Investimentos"/>
+  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-simulador.gif" width="600px" alt="GIF do Simulador de Investimentos"/>
   <h3 align="center">Simulador de Investimentos</h3>
   <p align="center">
     Ferramenta para simular rendimentos com base em taxas reais do mercado financeiro.
@@ -108,7 +108,7 @@ Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/projeto-mk.gif" width="600px" alt="GIF do Jogo de Cartas Mortal Kombat"/>
+  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-mk.gif" width="600px" alt="GIF do Jogo de Cartas Mortal Kombat"/>
   <h3 align="center">Jogo de Cartas - Mortal Kombat</h3>
   <p align="center">
     Jogo de luta em estilo de cartas, baseado nos icônicos personagens de Mortal Kombat.
@@ -148,4 +148,4 @@ Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e
   <a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  </p>
+</p>
