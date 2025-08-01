@@ -52,9 +52,9 @@ Sou um desenvolvedor de 17 anos, apaixonado por aprender novas tecnologias. Atua
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini1912&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
 </p>
----
 
-### 📬 ?
+
+###  ?
 
 <p align="center">
   <a href="mailto:vinicius.o.lima89@gmail.com" target="_blank">
