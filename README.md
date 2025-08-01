@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/banner.png" alt="Banner do Portfólio de Vinicius Oliveira"/>
 </p>
 
 <div align="center">
