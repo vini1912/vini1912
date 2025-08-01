@@ -134,11 +134,10 @@ Sou um Desenvolvedor Front-end focado em criar interfaces modernas, intuitivas e
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vini1912&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini1912&layout=compact&langs_count=8&theme=dracula" alt="Linguagens Mais Usadas"/>
 </p>
-
 ---
 
 ### 📬 Vamos nos Conectar?
