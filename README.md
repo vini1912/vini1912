@@ -29,7 +29,7 @@ Sou um desenvolvedor de 17 anos, apaixonado por aprender novas tecnologias. Atua
 
 ---
 
-### 🚀 Minha Stack de Tecnologias
+### 🚀Tecnologias
 
 <div align="center">
   <p><strong>Front-End</strong></p>
@@ -37,100 +37,16 @@ Sou um desenvolvedor de 17 anos, apaixonado por aprender novas tecnologias. Atua
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </p>
-  <p><strong>Back-End e Banco de Dados</strong></p>
-  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  </p>
-  <p><strong>Ferramentas e Design</strong></p>
-  <p>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </p>
 </div>
 
----
-
-### ✨ Projetos que me Orgulho
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-fnaf.gif" width="600px" alt="GIF do Projeto FNAF"/>
-  <h3 align="center">Projeto FNAF</h3>
-  <p align="center">
-    Jogo de suspense e interatividade inspirado no universo de Five Nights at Freddy's.
-    <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </p>
-  <p align="center">
-    <a href="LINK-PARA-O-REPO-FNAF">
-      <img src="https://img.shields.io/badge/Ver%20Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
-    </a>
-    <a href="LINK-PARA-O-DEMO-FNAF">
-      <img src="https://img.shields.io/badge/Ver%20Demo%20Online-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
-    </a>
-  </p>
-</p>
-
-<br/>
-<hr>
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-simulador.gif" width="600px" alt="GIF do Simulador de Investimentos"/>
-  <h3 align="center">Simulador de Investimentos</h3>
-  <p align="center">
-    Ferramenta para simular rendimentos com base em taxas reais do mercado financeiro.
-    <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  </p>
-  <p align="center">
-    <a href="LINK-PARA-O-REPO-SIMULADOR">
-      <img src="https://img.shields.io/badge/Ver%20Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
-    </a>
-    <a href="LINK-PARA-O-DEMO-SIMULADOR">
-      <img src="https://img.shields.io/badge/Ver%20Demo%20Online-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
-    </a>
-  </p>
-</p>
-
-<br/>
-<hr>
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vini1912/vini1912/main/assets/projeto-mk.gif" width="600px" alt="GIF do Jogo de Cartas Mortal Kombat"/>
-  <h3 align="center">Jogo de Cartas - Mortal Kombat</h3>
-  <p align="center">
-    Jogo de luta em estilo de cartas, baseado nos icônicos personagens de Mortal Kombat.
-    <br/>
-    <br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  </p>
-  <p align="center">
-    <a href="LINK-PARA-O-REPO-MK">
-      <img src="https://img.shields.io/badge/Ver%20Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório"/>
-    </a>
-    <a href="LINK-PARA-O-DEMO-MK">
-      <img src="https://img.shields.io/badge/Ver%20Demo%20Online-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo"/>
-    </a>
-  </p>
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vini1912&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
@@ -139,7 +55,7 @@ Sou um desenvolvedor de 17 anos, apaixonado por aprender novas tecnologias. Atua
 </p>
 ---
 
-### 📬 Vamos nos Conectar?
+### 📬 ?
 
 <p align="center">
   <a href="mailto:SEU-EMAIL@gmail.com" target="_blank">
